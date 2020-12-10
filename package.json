@@ -1,0 +1,23 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattBongiorno/burger.git"
+  },
+  "author": "Matt Bongiorno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattBongiorno/burger/issues"
+  },
+  "homepage": "https://github.com/MattBongiorno/burger#readme",
+  "dependencies": {
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
